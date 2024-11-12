@@ -1,0 +1,6 @@
+@Bhaarat_Bazaar_HostAddress = http://localhost:5207
+
+GET {{Bhaarat_Bazaar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
